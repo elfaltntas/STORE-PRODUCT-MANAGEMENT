@@ -1,0 +1,107 @@
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\GorselOdev.exe
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\GorselOdev.deps.json
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\GorselOdev.runtimeconfig.json
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\GorselOdev.dll
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\GorselOdev.pdb
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.csproj.AssemblyReference.cache
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.Form1.resources
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.Form2.resources
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.csproj.GenerateResource.cache
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.AssemblyInfoInputs.cache
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.AssemblyInfo.cs
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.csproj.CoreCompileInputs.cache
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.csproj.CopyComplete
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.dll
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\refint\GorselOdev.dll
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.pdb
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.genruntimeconfig.cache
+C:\Users\burha\source\repos\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\ref\GorselOdev.dll
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\GorselOdev.exe
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\GorselOdev.deps.json
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\GorselOdev.runtimeconfig.json
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\GorselOdev.dll
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\GorselOdev.pdb
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.csproj.AssemblyReference.cache
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.Form1.resources
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.Form2.resources
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.csproj.GenerateResource.cache
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.GeneratedMSBuildEditorConfig.editorconfig
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.AssemblyInfoInputs.cache
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.AssemblyInfo.cs
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.csproj.CoreCompileInputs.cache
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.csproj.CopyComplete
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.dll
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\refint\GorselOdev.dll
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.pdb
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.genruntimeconfig.cache
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\ref\GorselOdev.dll
+D:\kullanıcılar\burhan\desktop\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.Form3.resources
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\GorselOdev.exe
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\GorselOdev.deps.json
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\GorselOdev.runtimeconfig.json
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\GorselOdev.dll
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\GorselOdev.pdb
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.csproj.AssemblyReference.cache
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.Form1.resources
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.Form2.resources
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.Form3.resources
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.csproj.GenerateResource.cache
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.GeneratedMSBuildEditorConfig.editorconfig
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.AssemblyInfoInputs.cache
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.AssemblyInfo.cs
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.csproj.CoreCompileInputs.cache
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.csproj.CopyComplete
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.dll
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\refint\GorselOdev.dll
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.pdb
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.genruntimeconfig.cache
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\ref\GorselOdev.dll
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.Form4.resources
+D:\kullanıcılar\burhan\desktop\Yeni klasör\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.Properties.Resources.resources
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.csproj.AssemblyReference.cache
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.Form1.resources
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.Form2.resources
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.Form3.resources
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.Form4.resources
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.csproj.GenerateResource.cache
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.dll
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\refint\GorselOdev.dll
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.pdb
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\GorselOdev.exe
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\GorselOdev.deps.json
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\GorselOdev.runtimeconfig.json
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\GorselOdev.dll
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\GorselOdev.pdb
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.Properties.Resources.resources
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.GeneratedMSBuildEditorConfig.editorconfig
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.AssemblyInfoInputs.cache
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.AssemblyInfo.cs
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.csproj.CoreCompileInputs.cache
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.csproj.CopyComplete
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\GorselOdev.genruntimeconfig.cache
+D:\kullanıcılar\burhan\desktop\GorselProgProje\GorselOdev\GorselOdev\obj\Debug\net6.0-windows\ref\GorselOdev.dll

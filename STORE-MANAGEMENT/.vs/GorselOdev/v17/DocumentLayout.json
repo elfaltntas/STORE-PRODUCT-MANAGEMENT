@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elfal\\Desktop\\PROJELER\\GorselProgProje\\GorselOdev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F392D8-C6AA-4333-8839-741BD8DF0501}|GorselOdev\\GorselOdev.csproj|C:\\Users\\elfal\\Desktop\\PROJELER\\GorselProgProje\\GorselOdev\\gorselodev\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8F392D8-C6AA-4333-8839-741BD8DF0501}|GorselOdev\\GorselOdev.csproj|solutionrelative:gorselodev\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F392D8-C6AA-4333-8839-741BD8DF0501}|GorselOdev\\GorselOdev.csproj|C:\\Users\\elfal\\Desktop\\PROJELER\\GorselProgProje\\GorselOdev\\gorselodev\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8F392D8-C6AA-4333-8839-741BD8DF0501}|GorselOdev\\GorselOdev.csproj|solutionrelative:gorselodev\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F392D8-C6AA-4333-8839-741BD8DF0501}|GorselOdev\\GorselOdev.csproj|C:\\Users\\elfal\\Desktop\\PROJELER\\GorselProgProje\\GorselOdev\\gorselodev\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8F392D8-C6AA-4333-8839-741BD8DF0501}|GorselOdev\\GorselOdev.csproj|solutionrelative:gorselodev\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F392D8-C6AA-4333-8839-741BD8DF0501}|GorselOdev\\GorselOdev.csproj|c:\\users\\elfal\\desktop\\projeler\\gorselprogproje\\gorselodev\\gorselodev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8F392D8-C6AA-4333-8839-741BD8DF0501}|GorselOdev\\GorselOdev.csproj|solutionrelative:gorselodev\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form4.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\elfal\\Desktop\\PROJELER\\GorselProgProje\\GorselOdev\\GorselOdev\\Form4.cs",
+              "RelativeDocumentMoniker": "GorselOdev\\Form4.cs",
+              "ToolTip": "C:\\Users\\elfal\\Desktop\\PROJELER\\GorselProgProje\\GorselOdev\\GorselOdev\\Form4.cs [Tasar\u0131m]",
+              "RelativeToolTip": "GorselOdev\\Form4.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:07:26.338Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\elfal\\Desktop\\PROJELER\\GorselProgProje\\GorselOdev\\GorselOdev\\Form3.cs",
+              "RelativeDocumentMoniker": "GorselOdev\\Form3.cs",
+              "ToolTip": "C:\\Users\\elfal\\Desktop\\PROJELER\\GorselProgProje\\GorselOdev\\GorselOdev\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "GorselOdev\\Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:07:26.343Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\elfal\\Desktop\\PROJELER\\GorselProgProje\\GorselOdev\\GorselOdev\\Form2.cs",
+              "RelativeDocumentMoniker": "GorselOdev\\Form2.cs",
+              "ToolTip": "C:\\Users\\elfal\\Desktop\\PROJELER\\GorselProgProje\\GorselOdev\\GorselOdev\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "GorselOdev\\Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:07:26.346Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\elfal\\Desktop\\PROJELER\\GorselProgProje\\GorselOdev\\GorselOdev\\Form1.cs",
+              "RelativeDocumentMoniker": "GorselOdev\\Form1.cs",
+              "ToolTip": "C:\\Users\\elfal\\Desktop\\PROJELER\\GorselProgProje\\GorselOdev\\GorselOdev\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "GorselOdev\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T08:07:26.349Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
