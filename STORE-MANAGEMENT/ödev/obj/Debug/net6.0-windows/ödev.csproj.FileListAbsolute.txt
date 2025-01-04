@@ -1,0 +1,84 @@
+C:\Users\elfal\source\repos\ödev\ödev\bin\Debug\net6.0-windows\ödev.exe
+C:\Users\elfal\source\repos\ödev\ödev\bin\Debug\net6.0-windows\ödev.deps.json
+C:\Users\elfal\source\repos\ödev\ödev\bin\Debug\net6.0-windows\ödev.runtimeconfig.json
+C:\Users\elfal\source\repos\ödev\ödev\bin\Debug\net6.0-windows\ödev.dll
+C:\Users\elfal\source\repos\ödev\ödev\bin\Debug\net6.0-windows\ödev.pdb
+C:\Users\elfal\source\repos\ödev\ödev\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\elfal\source\repos\ödev\ödev\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\elfal\source\repos\ödev\ödev\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\elfal\source\repos\ödev\ödev\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\elfal\source\repos\ödev\ödev\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\elfal\source\repos\ödev\ödev\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\elfal\source\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.csproj.AssemblyReference.cache
+C:\Users\elfal\source\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.Form1.resources
+C:\Users\elfal\source\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.Form2.resources
+C:\Users\elfal\source\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.csproj.GenerateResource.cache
+C:\Users\elfal\source\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elfal\source\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.AssemblyInfoInputs.cache
+C:\Users\elfal\source\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.AssemblyInfo.cs
+C:\Users\elfal\source\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.csproj.CoreCompileInputs.cache
+C:\Users\elfal\source\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.csproj.CopyComplete
+C:\Users\elfal\source\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.dll
+C:\Users\elfal\source\repos\ödev\ödev\obj\Debug\net6.0-windows\refint\ödev.dll
+C:\Users\elfal\source\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.pdb
+C:\Users\elfal\source\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.genruntimeconfig.cache
+C:\Users\elfal\source\repos\ödev\ödev\obj\Debug\net6.0-windows\ref\ödev.dll
+C:\Users\elfal\source\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.Form3.resources
+C:\Users\elfal\source\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.Form4.resources
+C:\Users\elfal\source\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.Properties.Resources.resources
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\bin\Debug\net6.0-windows\ödev.exe
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\bin\Debug\net6.0-windows\ödev.deps.json
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\bin\Debug\net6.0-windows\ödev.runtimeconfig.json
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\bin\Debug\net6.0-windows\ödev.dll
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\bin\Debug\net6.0-windows\ödev.pdb
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.csproj.AssemblyReference.cache
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.Form1.resources
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.Form2.resources
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.Form3.resources
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.Form4.resources
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.Properties.Resources.resources
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.csproj.GenerateResource.cache
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.AssemblyInfoInputs.cache
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.AssemblyInfo.cs
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.csproj.CoreCompileInputs.cache
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.csproj.Up2Date
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.dll
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\refint\ödev.dll
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.pdb
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.genruntimeconfig.cache
+C:\Users\elfal\Desktop\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ref\ödev.dll
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\bin\Debug\net6.0-windows\ödev.exe
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\bin\Debug\net6.0-windows\ödev.deps.json
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\bin\Debug\net6.0-windows\ödev.runtimeconfig.json
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\bin\Debug\net6.0-windows\ödev.dll
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\bin\Debug\net6.0-windows\ödev.pdb
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.csproj.AssemblyReference.cache
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.Form1.resources
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.Form2.resources
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.Form3.resources
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.Form4.resources
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.Properties.Resources.resources
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.csproj.GenerateResource.cache
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.AssemblyInfoInputs.cache
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.AssemblyInfo.cs
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.csproj.CoreCompileInputs.cache
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.csproj.Up2Date
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.dll
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\refint\ödev.dll
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.pdb
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ödev.genruntimeconfig.cache
+C:\Users\elfal\Desktop\btbs dersler\otomasyon-mikro\repos\repos\ödev\ödev\obj\Debug\net6.0-windows\ref\ödev.dll
