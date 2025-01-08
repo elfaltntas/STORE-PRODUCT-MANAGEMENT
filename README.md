@@ -1,65 +1,45 @@
-# 🔧 Laptop Mağazası Yönetim Sistemi
+# 🚀 Database Management Application 🚀
 
-Bu proje, bir laptop mağazasının temel ihtiyaçlarını karşılamak üzere tasarlanmış bir C# uygulamasıdır. Kullanıcı giriş sisteminden ürün yönetimine ve istatistiksel analizlere kadar çeşitli özellikler sunmaktadır.
+This project is a desktop application developed using C# Windows Forms and SQL Server. Users can log into the system with different permissions and access various functions as either an administrator or a standard user. 🛠️
 
----
-
-## 📜 Proje Özeti
-
+## 🌟 Getting Started
 ![](https://github.com/elfaltntas/STORE-PRODUCT-MANAGEMENT/blob/main/images/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-05%20031502.png)
-*Senaryo:* 
-- Kullanıcı giriş ekranında, 2 admin ve 3 normal kullanıcı olmak üzere 5 farklı kullanıcı tanımlıdır.
-  - Admin kullanıcılar ürün ekleme, silme, güncelleme, arama ve istatistik özelliklerine erişebilir.
-  - Normal kullanıcılar ürün arama yapabilir ve tüm ürünleri görüntüleyebilir.
-- Admin kullanıcılar, istatistik ekranına erişerek stok, işlemci, RAM, depolama verilerini ve toplam ürün sayısını görüntüleyebilir.
 
-### Proje Kazanımları
-- SQL veritabanı yönetimi.
-- Kullanıcı yetkilendirme ve giriş sistemi.
-- C# ile form tasarımı ve kodlama.
+Step-by-step instructions on how to set up and run the project in your local environment!
 
----
+### 🔧 Prerequisites
 
-## 🛠 Kullanılan Teknolojiler
+Requirements to run this project:
+- `Microsoft Visual Studio`
+- `Microsoft SQL Server`
+- `.NET Framework`
 
-- **Veritabanı:** SQL
-- **Programlama Dili:** C#
-- **Kütüphane:** .NET Framework
+### 🛠 Installation
 
----
+Steps to get the project up and running:
+1. Install Microsoft Visual Studio and SQL Server on your computer.
+2. Clone or download the project code from this repository.
+3. Configure the database in SQL Server and create the necessary tables.
+4. Open the project in Visual Studio and configure the database connection strings.
+5. Compile and run the application.
 
-## 💡 Proje Adımları
+## 🎮 Usage
 
-1. *Veritabanı Oluşturma:*
-   - Kullanıcı admini ve laptop adlı iki tablo oluşturuldu.
-   - 20 farklı ürün ve her ürünün 10 özelliği ile tablolar dolduruldu.
+When users launch the application, they can log in through the C# Windows Forms-based login screen with their username and password:
+- Upon successful login, users are redirected based on their role.
+- Administrator users gain access to the admin panel and can perform various CRUD operations.
+- Standard users can perform data viewing operations with limited permissions.
 
-2. *Form Tasarımı:*
-   - Kullanıcı Giriş Formu: Admin ve normal kullanıcılar için farklı giriş yetkileri tanımlandı.
-   - Ürün Kaydetme ve Düzenleme Formu: Ürün ekleme, güncelleme ve silme işlemleri yapılabilir.
-   - Ürün Listeleme ve Arama Formu: Ürün arama ve listeleme işlemleri yapılabilir.
-   - İstatistik Formu: Admin kullanıcılar için istatistiksel veriler sunar.
+## 👥 Contributors
 
-3. *Kodlama:*
-   - C# kullanılarak form tasarımı ve işlevsellik sağlandı.
-   - Veritabanı ile bağlantı kurularak veri alışverişi sağlandı.
+- **Elif ALTINTAŞ**
 
-4. *Test ve Çalıştırma:*
-   - Tüm formlar ve işlevler test edilerek kullanıcı deneyimi optimize edildi.
+## 💡 Acknowledgements
 
----
+This application was developed using Microsoft Visual Studio, C# Windows Forms, and SQL Server technologies. We thank all the libraries and communities used in this project.
 
-## 📂 Dosya Yapısı
+## 📞 Contact
 
-/laptop_management_project
-├── SQL_Tabloları
-├── C#_Kodları
-├── Form_Tasarım_Dosyaları
-└── README.md
-
----
-
-## 📞 İletişim
-
+For any questions or collaborations:
 
 - 📧 elfaltntas123@gmail.com
